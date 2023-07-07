@@ -1,7 +1,8 @@
 # Basic webserver in Go (go-basic-webserver)
 
 Thanks to https://github.com/AkhilSharma90
-Code wrotten following the training course of freeCodeCamp.org : Learn Go Programming by Building 11 Projects – Full Course - https://www.youtube.com/watch?v=jFfo23yIWac
+
+Code written following the training course of freeCodeCamp.org : Learn Go Programming by Building 11 Projects – Full Course - https://www.youtube.com/watch?v=jFfo23yIWac
 
 ## Purpose of the project
 This project goal is to serve three URL paths : 
